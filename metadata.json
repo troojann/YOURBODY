@@ -1,0 +1,5 @@
+{
+  "name": "FitTrack AI",
+  "description": "A comprehensive fitness and walking tracker with calendar visualization and AI-powered health insights powered by Gemini.",
+  "requestFramePermissions": []
+}
